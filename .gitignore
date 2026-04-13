@@ -1,0 +1,16 @@
+# AI Models & Large Datasets
+*.h5
+*.pkl
+
+# Python Virtual Environments & Cache
+__pycache__/
+*.pyc
+venv/
+env/
+
+# IDE Configuration Files
+.idea/
+.vscode/
+
+# Environment Variables (Keep your secrets safe!)
+.env
